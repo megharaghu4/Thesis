@@ -1,0 +1,12 @@
+Trust, Misbehaving nodes, Opinion based model, Black hole
+Attack,Adverse drug reactions, data mining, fuzzy
+logic, postmarketing surveillance, potential causal association rules
+, recognition-primed decision model,association rules; LinkRuleMiner; dyer; event logs;
+colouring; shade,Appearance model, object tracking, partial least
+squares analysis,- randomization; feedback; steganography;
+cryptography,Image search, multimodal graph-based
+learning, reranking,Video Watermarking, Discrete Wavelet Transform,
+Principal Component Analysis, Binary Watermark, Attacks,
+Applications,Data mining, Data Perturbation, Multiparty Privacy Preserving,Content filtering, Message classification, policy-based personalization, just check, ckeek,visual system, image watermarking techniques, visible and invisible watermarking,
+Digital Watermarking, Image segmentation,AODV, Black hole attack, MANET, Trust management, QualNet,negative association rule (NAR), Apriori, frequent
+absence and presence (FAP) itemset
